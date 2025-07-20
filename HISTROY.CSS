@@ -1,0 +1,34 @@
+h1{
+    text-align: center;
+    font-size: 75px;
+    color: rgb(228, 252, 239);
+    font-family: fantasy;
+}
+q{
+    text-align: center;
+    display: block;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 20px;
+}
+body{
+    background-image: url(world-map.jpg); 
+    background-position: center center; 
+    background-repeat: no-repeat;
+     background-attachment: fixed;"
+    filter: brightness(30%);
+    }
+    header{
+        text-align: end;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bolder;
+    }
+    #D1{
+        text-decoration: none;
+        color: rgb(0, 0, 0);
+    }
+    #T2, List{
+        color: white;
+    }
+ 

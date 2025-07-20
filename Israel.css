@@ -1,0 +1,23 @@
+body{
+    background-image: url(IS.jpg); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+    #pc{
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    }
+    #H{
+        font-size: 30px;
+        font-style: oblique;
+        font-weight: bolder;
+        color: rgb(0, 0, 0);
+    }
+    header{
+       text-align: end;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-weight: bolder;
+    }
