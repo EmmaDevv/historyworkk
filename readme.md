@@ -1,8 +1,1 @@
-# simple App
-this is a very simple history app.
-Heres what it can do:
-
-- Show info about historical events 
-- Give a little current affairs 
-
-See live site here
+a simple history site for people who want tp grpw in knwoledge of their roots. Built with HTML and CSS
